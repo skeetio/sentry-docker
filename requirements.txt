@@ -14,4 +14,4 @@ sentry[postgres]==8.0.4
 django-auth-ldap==1.2.7
 
 # plugins
-sentry-youtrack=0.2.6
+sentry-youtrack==0.2.6
